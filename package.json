@@ -21,8 +21,11 @@
     "webpack": "^4.10.2"
   },
   "dependencies": {
+    "@folio/stripes": "^2.4.0",
     "json2csv": "^4.2.1",
+    "ky": "^0.17.0",
     "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
     "react-intl": "^2.4.0",
     "query-string": "^5.0.0"
   },

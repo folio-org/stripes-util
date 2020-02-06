@@ -3,6 +3,7 @@
 ## 1.6.3 (IN PROGRESS)
 
 * Add configuration to turn on/off header adding to csv file. Refs UIDEXP-1.
+* Add [`withOkapiKy`](lib/withOkapiKy/readme.md) higher-order component for communication with Okapi-mediated web services.
 
 ## [1.6.2](https://github.com/folio-org/stripes-util/tree/v1.6.2) (2019-12-18)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.1...v1.6.2)

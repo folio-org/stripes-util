@@ -23,10 +23,10 @@
   "dependencies": {
     "json2csv": "^4.2.1",
     "lodash": "^4.17.4",
-    "react-intl": "^2.4.0",
     "query-string": "^5.0.0"
   },
   "peerDependencies": {
-    "react": "*"
+    "react": "*",
+    "react-intl": "^2.4.0"
   }
 }

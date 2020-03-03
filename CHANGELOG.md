@@ -5,6 +5,7 @@
 * Add configuration to turn on/off header adding to csv file. Refs UIDEXP-1.
 * Extend function `effectiveCallNumber` for being able to use it with loans. Refs UIU-1391.
 * Move `react-intl` to peerDependencies.
+* Fix a mistake in `effectiveCallNumber` function. Fixes UIU-1391.
 
 ## [1.6.2](https://github.com/folio-org/stripes-util/tree/v1.6.2) (2019-12-18)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.1...v1.6.2)

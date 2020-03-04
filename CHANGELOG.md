@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
-## 2.0.0 (IN PROGRESS)
+## [2.0.0](https://github.com/folio-org/stripes-util/tree/v2.0.0) (2020-03-04)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.2...v2.0.0)
 
 * Add configuration to turn on/off header adding to csv file. Refs UIDEXP-1.
 * Extend function `effectiveCallNumber` for being able to use it with loans. Refs UIU-1391.

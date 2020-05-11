@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## 3.0.0 (IN PROGRESS)
+
+* Upgrade `react-intl` to `^4.5.3`. Refs STRIPES-672.
+
 ## [2.0.0](https://github.com/folio-org/stripes-util/tree/v2.0.0) (2020-03-04)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v1.6.2...v2.0.0)
 

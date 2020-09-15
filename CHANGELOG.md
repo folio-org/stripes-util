@@ -3,6 +3,7 @@
 ## 4.0.0 (IN PROGRESS)
 
 * Increment `react-intl` to `^v5`. Refs STUTL-9.
+* Add the `eachPromise` function from ui-users as a new export.
 
 ## [3.0.0](https://github.com/folio-org/stripes-util/tree/v3.0.0) (2020-05-20)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v2.0.0...v3.0.0)

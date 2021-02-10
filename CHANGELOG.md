@@ -3,6 +3,7 @@
 ## 4.1.0 IN PROGRESS
 * Tests! Refs STUTL-6.
 * Add the `parseJwt` function from ui-developer as a new export. Refs STUTL-13.
+* Jest deps should be dev deps.
 
 ## [4.0.0](https://github.com/folio-org/stripes-util/tree/v4.0.0) (2020-10-06)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v3.0.0...v4.0.0)

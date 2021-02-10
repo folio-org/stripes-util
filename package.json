@@ -23,16 +23,16 @@
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
     "@folio/eslint-config-stripes": "^5.0.0",
+    "@jest/globals": "^26.4.2",
     "babel-eslint": "^9.0.0",
+    "babel-jest": "^26.3.0",
     "eslint": "^6.2.1",
+    "jest": "^26.4.2",
+    "jest-junit": "^11.1.0",
     "react-test-renderer": "^16.13.1",
     "webpack": "^4.10.2"
   },
   "dependencies": {
-    "@jest/globals": "^26.4.2",
-    "babel-jest": "^26.3.0",
-    "jest": "^26.4.2",
-    "jest-junit": "^11.1.0",
     "json2csv": "^4.2.1",
     "lodash": "^4.17.4",
     "query-string": "^5.0.0"

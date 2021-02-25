@@ -1,6 +1,8 @@
 # Change history for stripes-util
 
-## 4.1.0 IN PROGRESS
+## [4.1.0](https://github.com/folio-org/stripes-util/tree/v4.1.0) (2021-02-25)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v4.0.0...v4.1.0)
+
 * Tests! Refs STUTL-6.
 * Add the `parseJwt` function from ui-developer as a new export. Refs STUTL-13.
 

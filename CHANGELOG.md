@@ -2,6 +2,8 @@
 
 ## 4.2.0 (IN PROGRESS)
 
+* `exportCsv` correctly handles legacy array implementation. Refs STUTL-14.
+
 ## [4.1.0](https://github.com/folio-org/stripes-util/tree/v4.1.0) (2021-02-25)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v4.0.0...v4.1.0)
 

@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
-## 4.2.0 (IN PROGRESS)
+## [4.2.0](https://github.com/folio-org/stripes-util/tree/v4.2.0) (2021-06-09)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v4.1.0...v4.2.0)
 
 * `exportToCsv` correctly handles legacy array implementation. Refs STUTL-14.
 * Announce deprecation of `exportToCsv`, now provided in `stripes-components`. Refs STUTL-15.

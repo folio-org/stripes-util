@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## 5.0.0 (IN PROGRESS)
+
+* React 17. Refs STUTL-18.
+
 ## [4.2.0](https://github.com/folio-org/stripes-util/tree/v4.2.0) (2021-06-09)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v4.1.0...v4.2.0)
 

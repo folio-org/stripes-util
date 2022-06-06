@@ -1,9 +1,13 @@
 # Change history for stripes-util
 
+## 5.2.0 IN PROGRESS
+
+* Update NodeJS to v16, active LTS. Refs STUTL-24.
+
 ## [5.1.0](https://github.com/folio-org/stripes-util/tree/v5.1.0) (2022-02-11)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.0.0...v5.1.0)
 
-Add `getPermissionLabelString` and `withTranslationErrorsDisabled`. Fixes STUTL-20.
+* Add `getPermissionLabelString` and `withTranslationErrorsDisabled`. Fixes STUTL-20.
 
 ## [5.0.0](https://github.com/folio-org/stripes-util/tree/v5.0.0) (2021-09-27)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v4.2.0...v5.0.0)

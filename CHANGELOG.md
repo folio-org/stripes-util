@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
-## 5.2.0 IN PROGRESS
+## [5.2.0](https://github.com/folio-org/stripes-util/tree/v5.2.0) (2022-06-14)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.1.0...v5.2.0)
 
 * Update NodeJS to v16, active LTS. Refs STUTL-24.
 * replace `babel-eslint` with `@babel/eslint-parser`. Refs STUTL-23.

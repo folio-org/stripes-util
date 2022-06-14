@@ -1,7 +1,7 @@
 {
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "extends": "@folio/eslint-config-stripes",
   "env": {
-    "jest/globals": true
+    "jest": true
   }
 }

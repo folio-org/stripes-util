@@ -11,10 +11,13 @@
     "registry": "https://repository.folio.org/repository/npm-folio/"
   },
   "scripts": {
+    "prepublish": "yarn transpile",
     "test:unit": "jest --ci --coverage",
     "test": "yarn run test:unit",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "transpile": "stripes transpile"
   },
+  "main": "dist/index.js",
   "engines": {
     "node": ">=14.0.0"
   },

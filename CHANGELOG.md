@@ -1,5 +1,10 @@
 # Change history for stripes-util
 
+## [5.2.1](https://github.com/folio-org/stripes-util/tree/v5.2.1) (2023-01-30)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.2.0...v5.2.1)
+
+* Update `query-string` to `^7.1.2` fixing DoS CVE-2022-38900. Refs STUTL-26.
+
 ## [5.2.0](https://github.com/folio-org/stripes-util/tree/v5.2.0) (2022-06-14)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.1.0...v5.2.0)
 

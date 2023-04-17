@@ -11,8 +11,7 @@
     "registry": "https://repository.folio.org/repository/npm-folio/"
   },
   "scripts": {
-    "test:unit": "jest --ci --coverage",
-    "test": "yarn run test:unit",
+    "test": "yarn vitest run --coverage",
     "lint": "eslint ."
   },
   "engines": {
@@ -24,13 +23,13 @@
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
     "@folio/eslint-config-stripes": "^6.1.0",
-    "@jest/globals": "^26.4.2",
-    "babel-jest": "^26.3.0",
+    "@vitest/coverage-c8": "^0.30.1",
+    "@vitest/coverage-istanbul": "^0.30.1",
     "eslint": "^7.32.0",
     "eslint-import-resolver-webpack": "^0.13.2",
-    "jest": "^26.4.2",
-    "jest-junit": "^11.1.0",
+    "eslint-plugin-vitest": "^0.1.4",
     "react-test-renderer": "^16.13.1",
+    "vitest": "^0.30.1",
     "webpack": "^4.10.2"
   },
   "dependencies": {

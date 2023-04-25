@@ -1,5 +1,9 @@
 # Change history for stripes-util
 
+## IN PROGRESS
+
+* Add `getHeaderWithCredentials` for leverage cookie-based authentication in all API requests. Refs STUTL-32.
+
 ## [5.2.1](https://github.com/folio-org/stripes-util/tree/v5.2.1) (2023-01-30)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.2.0...v5.2.1)
 

@@ -1,6 +1,6 @@
 # Change history for stripes-util
 
-## IN PROGRESS
+## 6.0.0 IN PROGRESS
 
 * Add `getHeaderWithCredentials` for leverage cookie-based authentication in all API requests. Refs STUTL-32.
 * Add `getSourceSuppressor` to build action suppressor based on an entry sources. Refs STUTL-34.

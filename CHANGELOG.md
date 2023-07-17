@@ -4,6 +4,7 @@
 
 * Add `getHeaderWithCredentials` for leverage cookie-based authentication in all API requests. Refs STUTL-32.
 * Add `getSourceSuppressor` to build action suppressor based on an entry sources. Refs STUTL-34.
+* *BREAKING* Bump `react` to `v18`. Refs STUTL-35.
 
 ## [5.2.1](https://github.com/folio-org/stripes-util/tree/v5.2.1) (2023-01-30)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.2.0...v5.2.1)

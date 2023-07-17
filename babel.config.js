@@ -1,3 +1,5 @@
+const { babelOptions } = require('@folio/stripes-cli');
+
 module.exports = {
-  presets: ['@babel/preset-env', '@babel/preset-react'],
+  ...babelOptions,
 };

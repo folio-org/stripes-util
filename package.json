@@ -15,9 +15,6 @@
     "test": "yarn run test:unit",
     "lint": "eslint ."
   },
-  "engines": {
-    "node": ">=14.0.0"
-  },
   "devDependencies": {
     "@babel/core": "^7.18.5",
     "@babel/eslint-parser": "^7.18.2",
@@ -25,12 +22,8 @@
     "@folio/stripes-cli": "^3.0.0",
     "@jest/globals": "^26.4.2",
     "babel-jest": "^26.3.0",
-    "eslint-import-resolver-typescript": "^3.5.5",
-    "eslint-import-resolver-webpack": "^0.13.2",
     "jest": "^26.4.2",
-    "jest-junit": "^11.1.0",
-    "react-test-renderer": "^16.13.1",
-    "webpack": "^4.10.2"
+    "jest-junit": "^11.1.0"
   },
   "dependencies": {
     "json2csv": "^4.2.1",

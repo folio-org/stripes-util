@@ -15,19 +15,10 @@
     "test": "yarn run test:unit",
     "lint": "eslint ."
   },
-  "engines": {
-    "node": ">=14.0.0"
-  },
   "devDependencies": {
-    "@babel/core": "^7.18.5",
-    "@babel/eslint-parser": "^7.18.2",
     "@folio/eslint-config-stripes": "^7.0.0",
     "@folio/jest-config-stripes": "^2.0.0",
-    "@folio/stripes-cli": "^3.0.0",
-    "eslint-import-resolver-typescript": "^3.5.5",
-    "eslint-import-resolver-webpack": "^0.13.2",
-    "react-test-renderer": "^16.13.1",
-    "webpack": "^4.10.2"
+    "@folio/stripes-cli": "^3.0.0"
   },
   "dependencies": {
     "json2csv": "^4.2.1",

@@ -7,6 +7,7 @@
 * *BREAKING* Bump `react` to `v18`. Refs STUTL-35.
 * Leverage `jest-config-stripes` for shared test config. Refs STUTL-40.
 * Prune unused deps, including `engines.node`. Refs STUTL-41.
+* *BREAKING* bump `react-intl` to `v6.4.4`. Refs STUTL-42.
 
 ## [5.2.1](https://github.com/folio-org/stripes-util/tree/v5.2.1) (2023-01-30)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.2.0...v5.2.1)

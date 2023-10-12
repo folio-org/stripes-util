@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
-## 6.0.0 IN PROGRESS
+## [6.0.0](https://github.com/folio-org/stripes-util/tree/v6.0.0) (2023-10-11)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v5.2.1...v6.0.0)
 
 * Add `getHeaderWithCredentials` for leverage cookie-based authentication in all API requests. Refs STUTL-32.
 * Add `getSourceSuppressor` to build action suppressor based on an entry sources. Refs STUTL-34.

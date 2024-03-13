@@ -1,6 +1,9 @@
 # Change history for stripes-util
 
-## 6.1.0 IN PROGRESS
+## 6.2.0 IN PROGRESS
+
+## [6.1.0](https://github.com/folio-org/stripes-util/tree/v6.1.0) (2024-03-12)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v6.0.0...v6.1.0)
 
 * Update `effectiveCallNumber` to include item's "Display summary" in the output. Refs STUTL-44.
 

@@ -2,6 +2,8 @@
 
 ## 6.2.0 IN PROGRESS
 
+* Implement `escapeCqlWildcards` to escape ALL CQL wildcards. Refs STUTL-45, STUTL-33.
+
 ## [6.1.0](https://github.com/folio-org/stripes-util/tree/v6.1.0) (2024-03-12)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v6.0.0...v6.1.0)
 

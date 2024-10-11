@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
-## 6.2.0 IN PROGRESS
+## [6.2.0](https://github.com/folio-org/stripes-util/tree/v6.2.0) (2024-10-11)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v6.1.0...v6.2.0)
 
 * Implement `escapeCqlWildcards` to escape ALL CQL wildcards. Refs STUTL-45, STUTL-33.
 

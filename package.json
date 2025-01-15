@@ -1,24 +1,36 @@
 {
   "name": "@folio/stripes-util",
-  "version": "6.3.0",
+  "version": "7.0.0",
   "description": "A library of utility functions to support Stripes modules.",
   "license": "Apache-2.0",
-  "repository": "folio-org/stripes-util",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/folio-org/stripes-util.git"
+  },
   "sideEffects": [
     "*.css"
   ],
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
   },
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md"
+  ],
   "scripts": {
     "test:unit": "jest --ci --coverage",
     "test": "yarn run test:unit",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "prepare": "stripes transpile --files ./lib"
   },
   "devDependencies": {
     "@folio/eslint-config-stripes": "^7.0.0",
     "@folio/jest-config-stripes": "^2.0.0",
-    "@folio/stripes-cli": "^3.0.0"
+    "@folio/stripes-cli": "github:folio-org/stripes-cli#STRIPES-957"
   },
   "dependencies": {
     "json2csv": "^4.2.1",

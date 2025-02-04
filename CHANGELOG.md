@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
-## 6.3.0 IN PROGRESS
+## 7.0.0 IN PROGRESS
+
 * `exportCSV` render download link to `OverlayContainer` to allow click to work and avoid focus-trapping of stripes modals. Refs STUTL-48.
 
 ## [6.2.0](https://github.com/folio-org/stripes-util/tree/v6.2.0) (2024-10-11)

@@ -1,3 +1,4 @@
+export { default as convertToSlipData } from './lib/convertToSlipData';
 export { default as effectiveCallNumber } from './lib/effectiveCallNumber';
 export { default as escapeCqlValue } from './lib/escapeCqlValue';
 export { default as escapeCqlWildcards } from './lib/escapeCqlWildcards';

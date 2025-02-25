@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
-## 7.0.0 IN PROGRESS
+## [7.0.0](https://github.com/folio-org/stripes-util/tree/v7.0.0) (2025-02-24)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v6.2.0...v7.0.0)
 
 * `exportCSV` render download link to `OverlayContainer` to allow click to work and avoid focus-trapping of stripes modals. Refs STUTL-48.
 * *BREAKING* Upgrade `@folio/stripes-*` dependencies. Refs STUTL-52.

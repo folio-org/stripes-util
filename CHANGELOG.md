@@ -1,6 +1,7 @@
 # Change history for stripes-util
 
 ## 7.1.0 IN PROGRESS
+* Update `convertToSlipData` and supporting functions. Refs STUTL-55.
 
 ## [7.0.0](https://github.com/folio-org/stripes-util/tree/v7.0.0) (2025-02-24)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v6.2.0...v7.0.0)

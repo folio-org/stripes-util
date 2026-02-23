@@ -4,6 +4,7 @@
 * Update `convertToSlipData` and supporting functions. Refs STUTL-55.
 * Update token for consistency. Refs STUTL-57.
 * Add the `item.seriesStatements` token to `convertToSlipData`. Refs STUTL-59.
+* Dependency correction: `react-intl` should have been v7 in the previous release. Refs STUTL-60.
 
 ## [7.0.0](https://github.com/folio-org/stripes-util/tree/v7.0.0) (2025-02-24)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v6.2.0...v7.0.0)

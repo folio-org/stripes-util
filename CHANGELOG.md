@@ -3,6 +3,7 @@
 ## IN PROGRESS
 
 * Commit `yarn.lock` to avoid future supply chain attacks. Refs STUTL-61.
+* Supply Personal Data Disclosure form. Refs STUTL-58.
 
 ## [7.1.0](https://github.com/folio-org/stripes-util/tree/v7.1.0) (2025-07-01)
 * Update `convertToSlipData` and supporting functions. Refs STUTL-55.

@@ -7,5 +7,6 @@ export { default as getFullName } from './lib/getFullName';
 export { default as parseJwt } from './lib/parseJwt';
 export { default as getHeaderWithCredentials } from './lib/getHeaderWithCredentials';
 export { default as getSourceSuppressor } from './lib/getSourceSuppressor';
+export { default as validateUUID } from './lib/validateUUID';
 export * from './validators';
 export * from './lib/permission';

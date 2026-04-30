@@ -1,12 +1,15 @@
 # Change history for stripes-util
 
-## IN PROGRESS
+## [7.2.0](https://github.com/folio-org/stripes-util/tree/v7.2.0) (IN PROGRESS)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v7.1.0...v7.2.0)
 
 * Commit `yarn.lock` to avoid future supply chain attacks. Refs STUTL-61.
 * Supply Personal Data Disclosure form. Refs STUTL-58.
 * Export UUID validation. Refs STUTL-62.
 
 ## [7.1.0](https://github.com/folio-org/stripes-util/tree/v7.1.0) (2025-07-01)
+[Full Changelog](https://github.com/folio-org/stripes-util/compare/v7.0.0...v7.1.0)
+
 * Update `convertToSlipData` and supporting functions. Refs STUTL-55.
 * Update token for consistency. Refs STUTL-57.
 * Add the `item.seriesStatements` token to `convertToSlipData`. Refs STUTL-59.

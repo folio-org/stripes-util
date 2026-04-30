@@ -1,6 +1,6 @@
 # Change history for stripes-util
 
-## [7.2.0](https://github.com/folio-org/stripes-util/tree/v7.2.0) (IN PROGRESS)
+## [7.2.0](https://github.com/folio-org/stripes-util/tree/v7.2.0) (2026-04-30)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v7.1.0...v7.2.0)
 
 * Commit `yarn.lock` to avoid future supply chain attacks. Refs STUTL-61.

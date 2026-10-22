@@ -2,6 +2,8 @@
 
 ## IN PROGRESS
 
+* Update `@folio/jest-config-stripes` (jest v30), `@folio/eslint-config-stripes` (oxlint v1). Refs STUTL-63.
+
 ## [7.2.0](https://github.com/folio-org/stripes-util/tree/v7.2.0) (2026-04-30)
 [Full Changelog](https://github.com/folio-org/stripes-util/compare/v7.1.0...v7.2.0)
 
